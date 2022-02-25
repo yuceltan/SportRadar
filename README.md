@@ -1,2 +1,0 @@
-# SportRadar
-SportRadar Java App
